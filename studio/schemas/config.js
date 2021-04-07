@@ -41,6 +41,7 @@ export default {
             "validation": Rule => Rule.required(),
             "options": {
                 "list": [
+                    "white"
                     "blue",
                     "cyan",
                     "green",
